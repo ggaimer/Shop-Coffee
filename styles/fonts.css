@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'JB';
+    src: url(../fonts/Jost-Black.ttf);
+    /* 900 */
+}
+
+@font-face {
+    font-family: 'JBO';
+    src: url(../fonts/Jost-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'JM';
+    src: url(../fonts/Jost-Medium.ttf);
+    /* 500 */
+}
+
+@font-face {
+    font-family: 'JR';
+    src: url(../fonts/Jost-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'JSB';
+    src: url(../fonts/Jost-SemiBold.ttf);
+    /* 600 */
+}

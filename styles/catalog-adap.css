@@ -1,0 +1,161 @@
+/* Header - adap start*/
+
+@media (max-width:1560px) {
+    .event {
+        display: none;
+    }
+}
+
+@media (max-width:890px) {
+    .header__nav-list,
+    .header__nav-link-vital.right {
+        justify-content: center;
+    }
+
+    .header__nav-list {
+        gap: 18px;
+    }
+}
+
+@media (max-width:820px) {
+    .header__nav-link-vital.right {
+        justify-content: flex-end;
+    }
+}
+
+@media (max-width:768px) {
+    .header__nav-link-vital.right {
+        justify-content: flex-end;
+    }
+}
+
+@media (max-width:478px) {
+    .header__nav-list {
+        gap: 10px;
+    }
+}
+
+@media (max-width:320px) {
+    .header__nav-link-vital {
+        gap: 20px;
+    }
+}
+
+/* Header - adap end*/
+
+
+/* Main - apdap - section__tavar start*/
+
+@media (max-width: 1234px) {
+    .tavar__box {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1120px) {
+    .description__text {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 1060px) {
+    .description__text {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 940px) {
+    .description__text {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 854px) {
+    .description__text {
+        font-size: 14px;
+    }
+
+    .other__products-box {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 708px) {
+    .description__text {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 646px) {
+    .description__text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 530px) {
+    .description__text {
+        font-size: 11px;
+    }
+
+    .description__block-text {
+        padding: 23px;
+    }
+}
+
+@media (max-width: 412px) {
+    .description__text {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 378px) {
+    .description__text {
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 320px) {
+    .tavar__title {
+        font-size: 40px;
+    }
+}
+
+/* Main - apdap - section__tavar end*/
+
+
+/* Footer - adap  start*/
+
+@media (max-width:690px) {
+    .footer__wrapper {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .footer__block {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer__nav-list, .footer__nav-list-2 {
+        align-items: center;
+    }
+
+    .descp {
+        justify-content: flex-end;
+    }
+
+    .descp__link {
+        text-shadow: 2px 0px 10px rgb(189, 136, 136);
+    }
+}
+
+@media (max-width:380px) {
+    .footer__nav-link-a {
+        font-size: 12px;
+    }
+}
+
+/* Footer - adap  end*/
